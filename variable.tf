@@ -1,5 +1,5 @@
 variable "ami_id" {
-    default = "ami-0b3acf3edf2397475"
+    default = "ami-0a9d27a9f4f5c0efc"
 }
 variable "region" {
     default = "ap-south-1"
